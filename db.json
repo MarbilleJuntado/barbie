@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "id": "8e942fbd-cf71-47e1-b027-10a42bcd3ea8",
+      "role": "admin",
+      "profile": {
+        "first_name": "Christopher",
+        "last_name": "Grant",
+        "email": "chris.grant@barclays.com",
+        "telephone": "+44 (0)20 7773 4693",
+        "mobile": "+44 (0)7469 031 430"
+      },
+      "company_details": {
+        "name": "Barclays",
+        "position": "Director - Head of External Engagement"
+      }
+    },
+    {
+      "id": "12a63f7b-de3c-4ad8-a4e7-18ce290ee1b9",
+      "role": "lawyer",
+      "profile": {
+        "first_name": "Martha",
+        "last_name": "Stewart",
+        "email": "martha@gmail.com",
+        "telephone": "453-1954",
+        "mobile": "09123456789"
+      },
+      "company_details": {
+        "name": "Simmons & Simmons",
+        "position": "Supervising Partner"
+      }
+    },
+    {
+      "id": "0e5d0655-6d65-40ae-b71e-4b00c410cab0",
+      "role": "lawyer",
+      "profile": {
+        "first_name": "Tim",
+        "last_name": "Burton",
+        "email": "tim@disney.com",
+        "telephone": "000 00 000",
+        "mobile": "+65 34534 334"
+      },
+      "company_details": {
+        "name": "Bird & Bird",
+        "position": "Paralegal"
+      }
+    }
+  ]
+}

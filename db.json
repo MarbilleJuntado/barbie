@@ -170,5 +170,22 @@
       "company": "Simmons & Simmons",
       "contact_id": "0e5d0655-6d65-40ae-b71e-4b00c410cab0"
     }
+  ],
+  "panel_firms": [
+    {
+      "id": "f2459d52-6173-418d-be1e-e70e58492cca",
+      "name": "Simmons & Simmons",
+      "location": "United Kingdom"
+    },
+    {
+      "id": "37461126-f7a4-4d5d-920a-9e07d2129954",
+      "name": "Kirkland & Ellis",
+      "location": "United States"
+    },
+    {
+      "id": "30dc1e8a-b345-49bc-89e5-a337bc8939cc",
+      "name": "Dentons",
+      "location": "China"
+    }
   ]
 }
